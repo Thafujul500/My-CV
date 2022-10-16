@@ -1,0 +1,180 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body {
+
+    background-color: #eee;
+
+}
+
+.container {
+
+    max-width: 1000px;
+    background-color: #e4f9f5;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+.profile-image {
+
+    height: 120px;
+    width: 100px;
+    border: 3px solid white;
+    border-radius: 50%;
+    float: left;
+    border-color: white;
+
+
+
+}
+
+.header-bio {
+
+    float: left;
+    padding: 10px;
+
+
+}
+
+
+h1,h2,h3,h4,h5,h6 {
+    color: #11999e;
+
+
+
+}
+
+
+.header-contract {
+
+    float: right;
+    padding: 30px;
+
+
+
+}
+
+.header-contract {
+    text-decoration: none;
+    color: teal;
+    font-weight: bold;
+
+
+
+
+}
+
+
+.header-contract a:hover{
+    text-decoration: underline;
+    color: red;
+
+}
+
+.div-clear {
+
+    clear: both;
+}
+
+hr {
+    border: black solid 3px;
+    width: 100%;
+    margin: 20px auto;
+    border-bottom: none;
+}
+
+
+
+
+#personal-section {
+
+
+}
+
+.content{
+    margin-bottom: 30px;
+
+
+}
+
+.left {
+
+    width: 30%;
+    float: left;
+
+
+}
+
+.right{
+
+    width: 70%;
+    float: left;
+    margin-bottom: 35px;
+
+}
+
+.common-hr {
+    border: solid black 1px;
+    border-bottom: none;
+    margin: 20px auto;
+    width: 100%;
+
+}
+
+
+.education-right{
+
+    float: right;
+    width: 45%;
+
+
+
+
+}
+
+.education-left  {
+    float: left;
+    width: 45%;
+
+
+
+}
+
+.bottom {
+    text-align: center;
+    padding: 10px;
+    background-color: black;
+    
+
+
+}
+.bottom a {
+    color: white;
+    margin: 20px;
+    text-decoration: none;
+
+}
+
+.bottom p {
+    color: white;
+    margin: 20px;
+
+}
+
+.bottom a:hover {
+
+    color: red;
+    text-decoration: underline;
+}
+.education-rightt {
+
+    float: left;
+    padding-right: 10px;
+
+}
+
+
+
+
